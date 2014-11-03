@@ -1,0 +1,5 @@
+<script>
+{
+confirm("hi");
+}
+</script>
